@@ -8,6 +8,7 @@ Logistic Regression is used for classification.<br/>
 Precision, Recall and F1 Score are used as classification metrics.
 
 ## Data Description
+The dataset can be found here https://www.kaggle.com/mlg-ulb/creditcardfraud
 The dataset includes 31 columns each having 284807 entries.<br/>
 The first column is a **Time** column which doesn't seem to be contributing much to the dataset.<br/>
 The columns after time have key ranging from **V1 to V28**. They are not described further due to security concerns.<br/>
